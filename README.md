@@ -66,12 +66,12 @@ Seconda sezione Installazione di visual studio code e configurazione.
    troviamo l'impostazione "Code-runner: Executor Map"
    Da lì cliccare su modifica in settings.json
   in settings.json tra le due parentesi graffe incollare (no trattini):
-
+```ruby
 "code-runner.executorMap": {
         "cpp": "g++ $fullFileName -o build/$fileNameWithoutExt.exe -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 && start build/$fileNameWithoutExt.exe",
         "c": "g++ $fullFileName -o build/$fileNameWithoutExt.exe && start build/$fileNameWithoutExt.exe"
     }
-
+```
   Premere ctrl + s per salvare.
 
 
