@@ -91,7 +91,7 @@ Seconda sezione Installazione di visual studio code e configurazione.
    esempio:
    Test.cpp
    Una volta scritto dare invio dalla schermata incollare il seguente esempio:
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <graphics.h>
@@ -106,6 +106,5 @@ int main(int argc, char *argv[])
     closegraph();
     exit(0);
 }
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Premi infine il tasto Run Code in alto a destra appena sotto al tasto per ripristinare la finestra (oppure premi ctrl + alt + n).
