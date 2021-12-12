@@ -96,6 +96,7 @@ Seconda sezione Installazione di visual studio code e configurazione.
 #include <stdlib.h>
 #include <graphics.h>
 
+'''c++
 int main(int argc, char *argv[])
 {
     initwindow(300, 400, "IL MIO PRIMO GRAFICO", 100, 80);
@@ -106,5 +107,5 @@ int main(int argc, char *argv[])
     closegraph();
     exit(0);
 }
-
+'''
 Premi infine il tasto Run Code in alto a destra appena sotto al tasto per ripristinare la finestra (oppure premi ctrl + alt + n).
