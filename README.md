@@ -92,11 +92,10 @@ Seconda sezione Installazione di visual studio code e configurazione.
    Test.cpp
    Una volta scritto dare invio dalla schermata incollare il seguente esempio:
 
+```cpp
 #include <stdio.h>
 #include <stdlib.h>
 #include <graphics.h>
-
-```cpp
 int main(int argc, char *argv[])
 {
     initwindow(300, 400, "IL MIO PRIMO GRAFICO", 100, 80);
