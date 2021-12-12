@@ -39,14 +39,11 @@ Si divide in 3 sezioni:
    aprire il prompt dei comandi (Dalla barra di ricerca di windows Prompt dei comandi)
    e digitare "g++ --version" (senza virgolette)
    dovrebbe uscire:
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 g++ (MinGW.org GCC Build-2) 9.2.0
 Copyright (C) 2019 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 
 # Seconda Sezione
@@ -70,13 +67,11 @@ Seconda sezione Installazione di visual studio code e configurazione.
    Da lì cliccare su modifica in settings.json
   in settings.json tra le due parentesi graffe incollare (no trattini):
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
 "code-runner.executorMap": {
-    
         "cpp": "g++ $fullFileName -o build/$fileNameWithoutExt.exe -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 && start build/$fileNameWithoutExt.exe",
         "c": "g++ $fullFileName -o build/$fileNameWithoutExt.exe && start build/$fileNameWithoutExt.exe"
     }
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
   Premere ctrl + s per salvare.
 
 
@@ -104,11 +99,9 @@ Seconda sezione Installazione di visual studio code e configurazione.
 int main(int argc, char *argv[])
 {
     initwindow(300, 400, "IL MIO PRIMO GRAFICO", 100, 80);
-
     putpixel(150, 250, COLOR(255,0,0));
     circle(80, 100, 30);
     line(30, 60, 100, 160);
-
     getch();
     closegraph();
     exit(0);
