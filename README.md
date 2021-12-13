@@ -1,10 +1,13 @@
 # Graphics.h su Visual Studio
 Questa è una guida con l'intento di aiutare coloro che vorrebbero per qualuncue motivo installare e configurare Visual Studio per la libreria graphics.h
 
+
+##### Indice
 Si divide in 3 sezioni:
--Installazione del compilatore
--Installazione di Visul Studio
--Test funzionamento
+##### Table of Contents  
+[Installazione del compilatore](#Installazione del compilatore) 
+[Installazione di Visul Studio](#Installazione di Visul Studio)
+[Test funzionamento](Test funzionamento)
 
 ## Prima sezione
 1. andare su https://sourceforge.net/projects/mingw/
