@@ -1,6 +1,5 @@
 # Graphics.h su Visual Studio
-Questa è una guida con l'intento di aiutare coloro che vorrebbero per qualuncue motivo installare e configurare Visual Studio per la libreria graphics.h
-
+Questa è una guida con l'intento di aiutare coloro che vorrebbero per qualuncue motivo installare e configurare Visual Studio per la libreria graphics.h. Un grazie a @ullaskunder3
 
 ### Indice
 Si divide in 3 sezioni:\
