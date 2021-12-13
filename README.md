@@ -2,7 +2,7 @@
 Questa è una guida con l'intento di aiutare coloro che vorrebbero per qualuncue motivo installare e configurare Visual Studio per la libreria graphics.h
 
 
-##### Indice
+### Indice
 Si divide in 3 sezioni:
 -[Installazione del compilatore](#prima-sezione)
 -[Installazione di Visul Studio](#seconda-sezione)
