@@ -6,7 +6,7 @@ Si divide in 3 sezioni:
 -Installazione di Visul Studio
 -Test funzionamento
 
-# Prima sezione
+## Prima sezione
 1. andare su https://sourceforge.net/projects/mingw/
    scaricare e installare il programma.
    N.B. Cambiare la cartella di installazione provoca errori nell'installazione si consiglia di lasaciarla invariata
@@ -47,7 +47,7 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
-# Seconda Sezione
+## Seconda Sezione
 
 Seconda sezione Installazione di visual studio code e configurazione.
 
@@ -78,7 +78,7 @@ Seconda sezione Installazione di visual studio code e configurazione.
 
 
 
-# Terza sezione
+## Terza sezione
 
 1. Proviamo un run con questo esempio:
 
