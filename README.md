@@ -14,9 +14,10 @@ Si divide in 3 sezioni:
 
 2. Una volta avviato il programma MinGW Installation Manager selezionare nella schermata di sinistra:
 
+```
    -mingw32-base
    -mingw32-gcc-g++
-
+```
     cliccare su mark for installation per selezionare
  
    nella barra delle opzioni del programma fare click su Installation e cliccare su Apply Changes.
