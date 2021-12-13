@@ -68,9 +68,10 @@ Seconda sezione Installazione di visual studio code e configurazione.
 
 
 4. Dal pannello dove abbiamo cercato l'estensione clicchiamo sul piccolo ingranaggio a lato (non quello in basso) da lì clicco ancora Impostazione estensione
-   troviamo l'impostazione "Code-runner: Executor Map"
-   Da lì cliccare su modifica in settings.json
-  in settings.json tra le due parentesi graffe incollare (no trattini):
+    ![visual studio](Immagini/Visual-studio)
+    troviamo l'impostazione "Code-runner: Executor Map"
+    Da lì cliccare su modifica in settings.json
+    in settings.json tra le due parentesi graffe incollare (no trattini):
 ```
 "code-runner.executorMap": {
         "cpp": "g++ $fullFileName -o $fileNameWithoutExt.exe -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 && start $fileNameWithoutExt.exe",
