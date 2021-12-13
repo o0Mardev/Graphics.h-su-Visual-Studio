@@ -18,7 +18,7 @@ Si divide in 3 sezioni:
    -mingw32-base
    -mingw32-gcc-g++
 ```
-    cliccare su mark for installation per selezionare
+   cliccare su mark for installation per selezionare
  
    nella barra delle opzioni del programma fare click su Installation e cliccare su Apply Changes.
    aspettare che finisca di installare il compilatore e quando fatto premere su Close e chiudere il programma.
