@@ -68,7 +68,7 @@ Seconda sezione Installazione di visual studio code e configurazione.
 
 
 4. Dal pannello dove abbiamo cercato l'estensione clicchiamo sul piccolo ingranaggio a lato (non quello in basso) da lì clicco ancora Impostazione estensione
-    ![visual studio](Immagini/Visual-studio)
+    ![visual studio](Immagini/Visual-studio.PNG)
     troviamo l'impostazione "Code-runner: Executor Map"
     Da lì cliccare su modifica in settings.json
     in settings.json tra le due parentesi graffe incollare (no trattini):
