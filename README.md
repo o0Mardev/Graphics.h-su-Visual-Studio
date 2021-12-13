@@ -6,7 +6,7 @@ Questa è una guida con l'intento di aiutare coloro che vorrebbero per qualuncue
 Si divide in 3 sezioni:\
 [Installazione del compilatore](#prima-sezione)\
 [Installazione di Visul Studio](#seconda-sezione)\
-[Test funzionamento](#terza-sezione)\
+[Test funzionamento](#terza-sezione)
 
 
 ## Prima sezione
