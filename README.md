@@ -39,12 +39,12 @@ Si divide in 3 sezioni:
    aprire il prompt dei comandi (Dalla barra di ricerca di windows Prompt dei comandi)
    e digitare "g++ --version" (senza virgolette)
    dovrebbe uscire:
-
+```
 g++ (MinGW.org GCC Build-2) 9.2.0
 Copyright (C) 2019 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
+```
 
 # Seconda Sezione
 
