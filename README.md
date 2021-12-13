@@ -4,10 +4,9 @@ Questa è una guida con l'intento di aiutare coloro che vorrebbero per qualuncue
 
 ##### Indice
 Si divide in 3 sezioni:
-##### Table of Contents  
-[Installazione del compilatore](#Installazione del compilatore) 
-[Installazione di Visul Studio](#Installazione di Visul Studio)
-[Test funzionamento](Test funzionamento)
+[Installazione del compilatore](#https://github.com/o0Mardev/Graphics.h-su-Visual-Studio#prima-sezione) 
+[Installazione di Visul Studio](#https://github.com/o0Mardev/Graphics.h-su-Visual-Studio#seconda-sezione)
+[Test funzionamento](https://github.com/o0Mardev/Graphics.h-su-Visual-Studio#terza-sezione)
 
 ## Prima sezione
 1. andare su https://sourceforge.net/projects/mingw/
