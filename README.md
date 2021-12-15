@@ -24,10 +24,11 @@ Si divide in 3 sezioni:\
  ![MinGW Installation Manager](Immagini/MinGW-Installation-manager.PNG)
  
    nella barra delle opzioni del programma fare click su Installation e cliccare su Apply Changes.
-   aspettare che finisca di installare il compilatore e quando fatto premere su Close e chiudere il programma.
+   Aspettare che finisca di installare il compilatore e quando fatto premere su Close e chiudere il programma.
 
 
-3. Copiare il file graphics.h nella cartella include del compilatore C:\MinGW\include 
+3. Scaricare I file: graphics.h e libbgi.a cliccando su File-necessari e poi individualmente su ognuno dei due file.
+   Copiare il file graphics.h nella cartella include del compilatore C:\MinGW\include 
    Copiare il file libbgi.h nella cartella lib del compilatore C:\MinGW\lib
 
    Per raggiungere la cartella Esplora file -> questo PC -> Disco locale -> MinGW
