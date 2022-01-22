@@ -42,7 +42,10 @@ Si divide in 3 sezioni:\
 
 5. Per testare che tutto funzioni correttamente
    aprire il prompt dei comandi (Dalla barra di ricerca di windows Prompt dei comandi)
-   e digitare "g++ --version" (senza virgolette)
+   e digitare:
+```
+g++ --version
+```
    dovrebbe uscire:
 ```
 g++ (MinGW.org GCC Build-2) 9.2.0
@@ -71,7 +74,7 @@ Seconda sezione Installazione di visual studio code e configurazione.
     ![visual studio](Immagini/Visual-studio.PNG)
     troviamo l'impostazione "Code-runner: Executor Map"
     Da lì cliccare su modifica in settings.json
-    in settings.json tra le due parentesi graffe incollare (no trattini):
+    in settings.json tra le due parentesi graffe incollare:
 ```
 "code-runner.executorMap": {
         "cpp": "g++ $fullFileName -o $fileNameWithoutExt.exe -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 && start $fileNameWithoutExt.exe",
